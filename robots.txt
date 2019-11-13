@@ -1,0 +1,6 @@
+﻿User-agent: *
+Sitemap: https://obed-za-100-rublej.ru/sitemap.xml
+Disallow: /main.html
+Disallow: /main
+Disallow: /stories.html
+Disallow: /stories
